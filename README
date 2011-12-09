@@ -1,0 +1,9 @@
+MWXInfiniteScrollView provides the infinite scrolling feature
+to the various UIView subclass such as UIImageView, your custom view and so on.
+
+Read the essential example source codes (ExampleViewController.{h,m}).
+
+
+How to use.
+1. Add `MWXInfiniteScrollView.h` and `MWXInfiniteScrollView.m` to your project.
+
